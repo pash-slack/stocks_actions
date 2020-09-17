@@ -8,11 +8,10 @@ The simple Python program pulls information about Slack's stock and has some sim
 - Building on multiple platforms (Windows, Ubuntu, MacOs) 
 - Building with different versions of Python `(2.7, 3.8)` in parallel
 - Common workflows 
-  - env setup
-  - linting
+  - env setup (`pip` installations)
+  - linting 
   - building and running 
   - test executions
 - PR workflows
 - Usage of other workflows e.g. labelling outdated PRs
-- Skipping CI when not needed with `[skip ci]`
 

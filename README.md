@@ -14,4 +14,5 @@ The simple Python program pulls information about Slack's stock and has some sim
   - test executions
 - PR workflows
 - Usage of other workflows e.g. labelling outdated PRs
+- Create a Docker image for a new release 
 

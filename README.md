@@ -3,7 +3,9 @@
 
 #### Description
 
-This simple Python program pulls information about Slack's stock and has some simple tests associated with it. Some of the functionality demoed here includes: 
+This simple Python program pulls information about Slack's stock and has some simple tests associated with it. 
+
+Some of the functionality demoed here includes (*see the workflows directory*): 
 
 - Building on multiple platforms (Windows, Ubuntu, MacOs) 
 - Building with different versions of Python `(2.7, 3.8)` in parallel

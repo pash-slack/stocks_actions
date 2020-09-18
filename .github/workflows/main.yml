@@ -38,6 +38,8 @@ jobs:
     - name: Run with python
       run: |
         python stonks.py
+      env:
+        STOCK_NAME: WORK
     - name: Slack Notification
       uses: rtCamp/action-slack-notify@master
       env:

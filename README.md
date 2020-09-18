@@ -16,4 +16,5 @@ The simple Python program pulls information about Slack's stock and has some sim
 - Usage of other workflows e.g. labelling outdated PRs
 - Create a Docker image for a new release 
 - Push Docker image to Github Packages! 
+- Send a notification to Slack
 

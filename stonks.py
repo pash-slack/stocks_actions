@@ -1,6 +1,7 @@
 import yfinance as yf
 import os
 
+# Quick demo project to test out Actions
 class slackChecker():
 
     def __init__(self, symbol):

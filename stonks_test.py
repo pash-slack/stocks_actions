@@ -11,5 +11,4 @@ class stonks_test(unittest.TestCase):
         self.assertTrue('zip' in response)
 
 if __name__ == '__main__':
-    print('Starting Kennel integration tests!')
     unittest.main(testRunner=xmlrunner.XMLTestRunner(output='test-reports'), failfast=False)

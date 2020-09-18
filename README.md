@@ -17,4 +17,5 @@ This simple Python program pulls information about Slack's stock and has some si
 - Create a Docker image for a new release 
 - Push Docker image to Github Packages! 
 - Send a notification to Slack
+- Secrets (dummy data) management within Github 
 

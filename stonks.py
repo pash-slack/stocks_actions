@@ -1,5 +1,5 @@
 import yfinance as yf
-
+import os
 
 class slackChecker():
 
@@ -15,7 +15,8 @@ class slackChecker():
 
 
 def main():
-    sc = slackChecker('WORK')
+    # Read the stock name set in the env variable in the workflow
+    sc = slackChecker(os.environ['STOCK_NAME'])
     sc.get_latest_info()
 
 

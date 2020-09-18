@@ -9,6 +9,7 @@ Some of the functionality demoed here includes (*see the workflows directory*):
 
 - Building on multiple platforms (Windows, Ubuntu, MacOs) 
 - Building with different versions of Python `(2.7, 3.8)` in parallel
+- Read env variables from YAML 
 - Common workflows 
   - env setup (`pip` installations)
   - linting 

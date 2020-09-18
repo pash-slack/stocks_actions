@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Build the Docker image
       run: |
-          VERSION=$(data +%s)
+          VERSION=$(date +%s)
           docker build . --file Dockerfile --tag stocks:${VERSION}
           docker login docker.pkg.github.com -u pash-slack --password ${{ secrets.GITHUB_TOKEN }} 
           docker tag stocks:${VERSION} docker.pkg.github.com/pash-slack/stocks_actions/stocks:${VERSION}

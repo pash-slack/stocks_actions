@@ -21,4 +21,5 @@ Some of the functionality demoed here includes (*see the workflows directory*):
 - Push Docker image to Github Packages! 
 - Send a notification to Slack
 - Secrets (dummy data) management within Github 
+- Utilization of caching
 

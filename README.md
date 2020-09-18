@@ -1,4 +1,4 @@
-# stocks_actions
+# Github Actions Demo Project
 
 
 #### Description

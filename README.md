@@ -1,4 +1,6 @@
 # Github Actions Trial/Demo 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpash-slack%2Fstocks_actions.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpash-slack%2Fstocks_actions?ref=badge_shield)
+
 
 
 #### Description
@@ -31,3 +33,7 @@ Sharing workflows within an org:
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpash-slack%2Fstocks_actions.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpash-slack%2Fstocks_actions?ref=badge_large)
